@@ -1,0 +1,6 @@
+[submodule "components/camera"]
+	path = components/camera
+	url = https://github.com/espressif/esp32-camera.git
+[submodule "components/arduino"]
+	path = components/arduino
+	url = https://github.com/espressif/arduino-esp32.git
